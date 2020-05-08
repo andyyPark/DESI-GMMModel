@@ -3,3 +3,4 @@ mls
 .ipynb_checkpoints/
 
 setup.py
+*.pt
